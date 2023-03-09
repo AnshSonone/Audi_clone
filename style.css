@@ -146,7 +146,7 @@
 =================== */
 
 .background{
-  background-image: url('/image/audi_background.jpg');
+  background-image: url('./image/audi_background.jpg');
   background-size: cover;
 }
 .head_text{
@@ -707,7 +707,7 @@
 =================== */
 
   .background{
-    background-image: url('/image/audi_background.jpg');
+    background-image: url('./image/audi_background.jpg');
     background-size: cover;
     background-position: bottom;
     height: 25em;
